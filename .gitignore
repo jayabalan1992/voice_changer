@@ -3,3 +3,4 @@ voices/
 output/
 assets/
 models/
+__pycache__/
